@@ -1,4 +1,4 @@
-# cognyte-demo
+# Cognyte
 
 ## Automation test task
 
