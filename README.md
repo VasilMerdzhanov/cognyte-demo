@@ -1,5 +1,3 @@
-# Cognyte
-
 ## Automation test task
 
 ### Please use the following tools:
